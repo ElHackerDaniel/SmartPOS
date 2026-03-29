@@ -144,5 +144,13 @@ Proyecto desarrollado como parte del proceso de aprendizaje en desarrollo web Fu
 
 Att: ElHackerDaniel
 
+🪬 Credenciales
+----
+Usuario: admin
+
+Password: AdminEntero123!
+
 🎥 Video
 ----
+https://github.com/user-attachments/assets/3c00e436-486a-4199-8220-b81a10f951a1
+
